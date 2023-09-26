@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hubert Vimalan <br/><a href="https://github.com/Hubertvimalan">Technical Support Level 2</a>
+<h1>Hi, I'm Hubert Vimalan <br/><a href="https://github.com/Hubertvimalan">Cyber Security Analyst</a>
 -<h4> <b> Summary</b></h1>
  I am a Technical Support Level 2 with expertise in handling Security Incidents and as a Cyber Security Analyst. My approach is highly motivated and detail-oriented, as I actively work to identify and analyze potential risks, threats, and vulnerabilities to security. I prioritize the confidentiality, integrity, and availability of assets to help safeguard organizations and individuals alike
   
@@ -22,8 +22,6 @@
  - professionalism
  - Adaptability
  - Critical Thinking
-
- <b>I am a Technical Support Level 2 with expertise in handling Security Incidents and as a Cyber Security Analyst. My approach is highly motivated and detail-oriented, as I actively work to identify and analyze potential risks, threats, and vulnerabilities to security. I prioritize the confidentiality, integrity, and availability of assets to help safeguard organizations and individuals alike.</b>
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -1,23 +1,29 @@
-<h1>Hi, I'm Hubert! <br/><a href="https://github.com/Hubertvimalan">Technical Support Level 2</a> <a href="www.linkedin.com/in/hubert-vimalan-89632891/">
+<h1>Hi, I'm Hubert Vimalan <br/><a href="https://github.com/Hubertvimalan">Technical Support Level 2</a>
+-<h4> <b> Summary</b></h1>
+ I am a Technical Support Level 2 with expertise in handling Security Incidents and as a Cyber Security Analyst. My approach is highly motivated and detail-oriented, as I actively work to identify and analyze potential risks, threats, and vulnerabilities to security. I prioritize the confidentiality, integrity, and availability of assets to help safeguard organizations and individuals alike
+  
+<h4> <b></b>Strenghts:</h4></B>
 
--<h2> <b></b>💪 Strenghts:</h2></B>
-- <b>Strong Attention to details</b> 
-- <b>Profential Communication Skills </b>
-- Working as a Level 2 Support 
-  - Experience in Working on High Priority Security Incident
+ - Strong Attention to details
+ - Profential Communication Skills
+- Experience in Working on High Priority Security Incident
+-Registering the Asset in Encrypted Enviroment Example - Microsoft Intune
+- Registering the Asset in Encrypted Enviroment Example - Microsoft Intune
+- Expereience in intune asset management both Laptop, Desktop and Mobile device
+-Active Directory
+- Add the device data in active directory to add in the domain to access company data
+- Expereience in removing the device from Active directory
 
-- <b>Registering the Asset</b>
-  - Registering the Asset in Encrypted Enviroment Example - Microsoft Intune
-- <b>Encrpytion of Data </b>
-  - Use data in encrypted enviorment and use end to end encryption <b><i>(End to End Encryption)</b></i>
-- <b>Active Directory</b>
-  - Add the device data in active directory to add in the domain to access company data
+ <h4> <b>Values:</b> </h4>
+ 
+ - Cognative thinking
+ - Self-Confident
+ - Self-Motivated
+ - professionalism
+ - Adaptability
+ - Critical Thinking
 
-    
-- <h2>Values: </h2>
- - ethical
- - curious
- - adhering to laws, ensuring equitable access
+ <b>I am a Technical Support Level 2 with expertise in handling Security Incidents and as a Cyber Security Analyst. My approach is highly motivated and detail-oriented, as I actively work to identify and analyze potential risks, threats, and vulnerabilities to security. I prioritize the confidentiality, integrity, and availability of assets to help safeguard organizations and individuals alike.</b>
 
 
 <h2> 🤳 Connect with me:</h2>
